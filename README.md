@@ -8,7 +8,7 @@
 
 ## Проекты
 
-- [Purple browser](ссылка на проект 1) - Браузер написаный на Python с поддержкой proxy .
+- [Purple browser](https://github.com/FearOfRevengeCoder/Purple-browser) - Браузер написаный на Python с поддержкой proxy .
 
 ## Контакты
 
