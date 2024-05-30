@@ -23,7 +23,7 @@
 
 ## Язык разметки
 
-- Markdown
+- CSS
 - HTML
 
 
