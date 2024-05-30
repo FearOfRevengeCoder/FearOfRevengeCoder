@@ -3,7 +3,6 @@
 ## Обо мне
 
 - 👀 Я заинтересован в ...
-- 🌱 Сейчас я изучаю ...
 - 📫 Как со мной связаться: Telegram, Gmail
 - 😄 Псевдонимы: [Baby Hacker, FearOFRevenge, WTF_GROUP]
 
