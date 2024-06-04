@@ -9,6 +9,7 @@
 ## Проекты
 
 - [Purple browser](https://github.com/FearOfRevengeCoder/Purple-browser) - Браузер написаный на Python с поддержкой proxy .
+- [File Hasher](https://github.com/FearOfRevengeCoder/file_hasher/tree/hash) -Узнайте хеш фалов.
 
 ## Контакты
 
