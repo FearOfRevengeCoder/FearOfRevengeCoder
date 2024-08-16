@@ -15,7 +15,7 @@
 
 - 📧 Email: endermanhacker08@gmail.com
 - 🌐 Сайт: {Скоро}
-- 🐦 Telegram: [@FearOfRevenge](https://t.me/FearOfRevenge)
+- ~~🐦 Telegram: [@FearOfRevenge](https://t.me/FearOfRevenge)~~
 
 ## Языки программирования
 - Python
