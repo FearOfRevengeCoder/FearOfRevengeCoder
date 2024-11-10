@@ -4,7 +4,7 @@
 
 - 👀 Я заинтересован в ***
 - 📫 Как со мной связаться: Telegram, Gmail
-- 😄 Псевдонимы: [Baby Hacker, FearOFRevenge, WTF_GROUP]
+- 😄 Псевдонимы: [Baby Hacker, FearOFRevenge, WTF_GROUP, cons0leweb]
 
 ## Проекты
 
