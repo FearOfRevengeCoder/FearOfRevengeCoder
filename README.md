@@ -1,4 +1,4 @@
-# Привет, я FearOfRevengeCoder
+# Привет, я cons0leweb
 
 ## Обо мне
 
